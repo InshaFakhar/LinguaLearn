@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "695231421681",
+    "firebase_url": "https://lingualearn-2e81e-default-rtdb.firebaseio.com",
+    "project_id": "lingualearn-2e81e",
+    "storage_bucket": "lingualearn-2e81e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695231421681:android:5fe40ef19a4f0c3a381d50",
+        "android_client_info": {
+          "package_name": "com.example.lingualearn"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAUlOHuDfdJu7ep0Sa3aVdrskysXh-07s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
